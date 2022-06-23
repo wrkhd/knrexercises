@@ -1,0 +1,3 @@
+/home/wrkhd/Workspace/knrexersises/cmake-build-debug/CMakeFiles/knrexersises.dir
+/home/wrkhd/Workspace/knrexersises/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/wrkhd/Workspace/knrexersises/cmake-build-debug/CMakeFiles/rebuild_cache.dir
